@@ -1,0 +1,12 @@
+{
+  "name": "mustache",
+  "repo": "zenzey/mustache.js",
+  "description": "mustache.js component",
+  "version": "0.7.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [ "mustache.js" ],
+  "main": "mustache.js"
+}
